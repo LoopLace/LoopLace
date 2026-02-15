@@ -1,7 +1,5 @@
-// LoopLace logic: world.execute(me) stylepublic class MyWorld {    public static void main(String[] args) {        while (world.isSleeping()) {            Chaos data = world.getData();            Art masterpiece = data.transform()                                  .filter(vibe -> vibe.isAnime())                                  .sort()                                  .beautify();                        if (masterpiece.isReady()) {                me.commit(masterpiece);                me.dream();             }        }    }}
 <img src="https://cdn-icons-png.flaticon.com/512/2166/2166821.png" width="30"> <samp>Tech Stack</samp>
 <p align="center">
-<!-- Здесь можно поменять иконки, написав свои технологии, например: i=python,react,figma -->
 <img src="https://skillicons.dev/icons?i=js,html,css,react,py,git,vscode&theme=dark" alt="Tech Stack"/>
 </p>
 
