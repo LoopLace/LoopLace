@@ -11,8 +11,6 @@
 • 🐦 [@looplace_art](https://twitter.com/looplace_art)  
 • 💬 Telegram: @looplace_dev  
 
-Пиши на русском, японском или даже на языке эмодзи 🌸🎀🌙
-
 ---
 
 ✨ Спасибо, что заглянул!  
